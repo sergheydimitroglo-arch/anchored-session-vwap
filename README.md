@@ -119,6 +119,11 @@ For the strategy version, repeat the steps but choose **Strategy** instead of **
 
 ---
 
+## Screenshot
+![Main view](screenshots-main-chart.png)
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
