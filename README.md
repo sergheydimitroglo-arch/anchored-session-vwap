@@ -129,7 +129,7 @@ MIT — see [LICENSE](LICENSE).
 
 **Serghey Dimitroglo** — automation and trading systems developer.
 
-- Upwork: [your profile link]
-- TradingView: [link when published]
+- Upwork: https://www.upwork.com/freelancers/sergheyd
+- GitHub: https://github.com/serghey-d
 
 If you find a bug or have a feature request, open an issue on this repo.
